@@ -11,19 +11,19 @@
 }
 
 .unordered {
-    background: #b33bf0;
+    background: #F5FFFA;
     padding: 20px;
     width: 30%;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .unordered li {
-    background: #D888FF;
+    background: #E6E6FA;
     margin: 5px;
 }
 
 .nested-ul li { 
-    background: #EECBFF;
+    background: #E6E6FA;
     margin: 5px;
 }
 .custom-box-list {

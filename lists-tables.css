@@ -112,7 +112,7 @@ caption {
 
 .table-simple th { 
 
-  background-color: #6495ED; 
+  background-color: #D8BFD8; 
 
   color: white; 
 
@@ -122,7 +122,7 @@ caption {
 
 .table-simple tr:nth-child(even) { 
 
-  background-color: #ececec; 
+  background-color: #E6E6FA; 
 
 } 
 

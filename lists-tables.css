@@ -111,7 +111,7 @@ caption {
 
 .head-body-foot thead {
     color: purple;
-    background-color: ;
+    background-color: E6E6FA;
 
 }
 
@@ -128,11 +128,11 @@ caption {
 }
 
 .head-body-foot thead:hover {
-    background-color: #acffe3;
+    background-color: #FFF0F5;
 }
 
 .head-body-foot tbody:hover {
-    background-color: #acffe3;
+    background-color: #FFF0F5;
 }
 
 .head-body-foot tfoot:hover {

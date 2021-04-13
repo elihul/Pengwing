@@ -111,18 +111,18 @@ caption {
 
 
 .head-body-foot thead {
-    color: #FFFFFF;
+    color: #B0C4DE;
     background-color: #E0FFFF;
 }
 
 .head-body-foot tbody {
-    color: rgb(182, 212, 182);
+    color: #B0C4DE;
     font-weight: bold;
     background-color: #B0E0E6;
 }
 
 .head-body-foot tfoot {
-    color: rgb(5, 4, 0);
+    color: #B0C4DE;
     background-color: rgb(227, 231, 233);
     font-weight:bold ;
 }

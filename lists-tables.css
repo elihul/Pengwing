@@ -75,7 +75,7 @@ transform: translateY(-50%);
 
 
 table, th,td { 
-  border: 1px solid black; 
+  border: 1px solid #000000; 
   border-collapse: collapse; 
 } 
 
@@ -89,12 +89,12 @@ caption {
     text-align: center; 
     font-style: italic; 
     font-weight: bold; 
-    color: black; 
+    color: #000000; 
 } 
 
 .table-simple th { 
     background-color: #B0C4DE; 
-    color: white; 
+    color: #FFFFFF; 
 }  
 
 .table-simple tr:nth-child(even) { 
@@ -112,29 +112,29 @@ caption {
 
 .head-body-foot thead {
     color: #B0C4DE;
-    background-color: #E0FFFF;
+    background-color: #00CED1;
 }
 
 .head-body-foot tbody {
     color: #B0C4DE;
     font-weight: bold;
-    background-color: #B0E0E6;
+    background-color: #00BFFF;
 }
 
 .head-body-foot tfoot {
     color: #B0C4DE;
-    background-color: rgb(227, 231, 233);
+    background-color: 1E90FF;
     font-weight:bold ;
 }
 
 .head-body-foot thead:hover {
-    background-color: #FFF0F5;
+    background-color: #9370DB;
 }
 
 .head-body-foot tbody:hover {
-    background-color: #FDF5E6;
+    background-color: #9370DB;
 }
 
 .head-body-foot tfoot:hover {
-    background-color: #D8BFD8;
+    background-color: #9370DB;
 }

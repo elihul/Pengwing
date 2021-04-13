@@ -50,14 +50,14 @@
 }
 
 .list-image {
-list-style: none;
-padding-left: 0;
+    list-style: none;
+    padding-left: 0;
 }
 
 .list-image li {
-position: relative;
-padding-left: 30px;
-line-height: 170%;
+    position: relative;
+    padding-left: 30px;
+    line-height: 170%;
 }
 
 .list-image li:before {
@@ -75,69 +75,54 @@ transform: translateY(-50%);
 
 
 table, th,td { 
-
   border: 1px solid black; 
-
   border-collapse: collapse; 
-
 } 
-
- 
 
 th,td { 
-
   padding: 15px; 
-
   text-align: center; 
-
 } 
-
- 
 
 caption { 
-
-  caption-side: top; 
-
-  text-align: center; 
-
-  font-style: italic; 
-
-  font-weight: bold; 
-
-  color: black; 
-
+    caption-side: top; 
+    text-align: center; 
+    font-style: italic; 
+    font-weight: bold; 
+    color: black; 
 } 
-
- 
 
 .table-simple th { 
-
-  background-color: #B0C4DE; 
-
-  color: white; 
-
-} 
-
- 
+    background-color: #B0C4DE; 
+    color: white; 
+}  
 
 .table-simple tr:nth-child(even) { 
-
-  background-color: #E6E6FA; 
-
+    background-color: #E6E6FA; 
 } 
-
- 
 
 .table-simple tr:nth-child(odd) { 
-
-  background-color: #fff; 
-
+    background-color: #fff; 
 } 
-
- 
 
 .table-simple tr:hover { 
-
-  background-color: #acffe3; 
-
+    background-color: #acffe3; 
 } 
+
+.head-body-foot thead {
+    color: purple;
+    background-color: rgb(243, 136, 13);
+
+}
+
+.head-body-foot tbody {
+    color: rgb(182, 212, 182);
+    font-weight: bold;
+    background-color: rgb(68, 39, 177);
+}
+
+.head-body-foot tfoot {
+    color: rgb(5, 4, 0);
+    background-color: rgb(227, 231, 233);
+    font-weight:bold ;
+}

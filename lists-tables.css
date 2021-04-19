@@ -138,3 +138,14 @@ caption {
 .head-body-foot tfoot:hover {
     background-color: #9370DB;
 }
+
+.scroll-bar {
+    overflow-x: auto;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.15);
+}
+
+.table-image {
+
+margin: 0 auto;
+
+}
